@@ -1,0 +1,14 @@
+{
+  "name": "tdiec00-resume",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tdiec00",
+  "license": "ISC"
+  "bin": {
+    "resume-me": "./index.js"
+  },
+}
