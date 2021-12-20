@@ -1,4 +1,7 @@
 {
+  "bin": {
+    "resume-me": "./index.js"
+  },
   "name": "tdiec00-resume",
   "version": "1.0.0",
   "description": "",
@@ -8,7 +11,3 @@
   },
   "author": "tdiec00",
   "license": "ISC"
-  "bin": {
-    "resume-me": "./index.js"
-  },
-}
